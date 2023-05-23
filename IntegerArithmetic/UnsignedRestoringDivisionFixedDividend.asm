@@ -1,5 +1,5 @@
             ;
-            ; Restoring division with fixed dividend.
+            ; Unsigned restoring division with fixed dividend.
             ; Divides an unsigned 16-bit number by an unsigned 8-bit number.
             ;
             .include "m328Pdef.inc"
